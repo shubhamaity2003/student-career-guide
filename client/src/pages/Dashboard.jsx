@@ -187,7 +187,7 @@ function CareerChatbot() {
     setMessages((m) => [...m, { from: "user", text }]);
 
     try {
-      const res = await fetch("http://localhost:8000/chat", {
+      const res = await fetch("https://student-career-guide-2.onrender.com/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: text })
