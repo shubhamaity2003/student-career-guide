@@ -1,0 +1,14 @@
+{
+  "coding": [
+    {
+      "career": "Frontend Developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "roadmap": "Learn HTML/CSS → JavaScript → React → Build projects"
+    },
+    {
+      "career": "Backend Developer",
+      "skills": ["Node.js", "Express", "MongoDB"],
+      "roadmap": "Learn JS → Node.js → Express → Databases → APIs"
+    }
+  ]
+}
